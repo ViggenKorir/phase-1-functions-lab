@@ -22,3 +22,6 @@ function calculatesFarePrice(start, destination){
         return 'cannot travel that far';
     }
 }
+
+someValue = (56)
+console.log(distanceFromHqInBlocks)
